@@ -6,7 +6,7 @@
 [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.794.pdf)
 
 <div align="center">
-<img src="./truthfulness_eval_framework.pdf" width="100%" align="center">
+<img src="./truthfulness_eval_framework.jpg" width="100%" align="center">
 </div>
 
 ## Usage
