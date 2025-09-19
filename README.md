@@ -6,6 +6,8 @@
 
 ## Installation
 
+# Truthfulness on Logical Reasoning and Common Sense
+
 conda create -n truthfulness_eval python=3.9
 
 conda activate truthfulness_eval
