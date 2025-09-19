@@ -45,9 +45,8 @@ python3 truth_eval_main.py
 
 ```bash
 cd truthqa_evaluate
-```
-
 bash main.sh
+```
 
 ##  Citation
 
