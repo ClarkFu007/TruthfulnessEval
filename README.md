@@ -24,6 +24,9 @@ conda activate truthqa_eval
 
 pip install -r requirements.txt
 
+pip install -e transformers-4.47.1 (For AWQ)
+
+pip install -e transformers-4.51.3
 
 ## Quickstart
 
