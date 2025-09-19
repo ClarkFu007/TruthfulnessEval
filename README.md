@@ -14,6 +14,17 @@ conda activate truthfulness_eval
 
 pip install -r requirements.txt
 
+**Truthfulness on Imitative Falsehoods**
+
+cd truthqa_evaluate
+
+conda create -n truthqa_eval python=3.9
+
+conda activate truthqa_eval
+
+pip install -r requirements.txt
+
+
 ## Quickstart
 
 python3 truth_eval_main.py
