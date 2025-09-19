@@ -8,14 +8,18 @@
 
 **Truthfulness on Logical Reasoning and Common Sense**
 
+```bash
 conda create -n truthfulness_eval python=3.9
 
 conda activate truthfulness_eval
 
 pip install -r requirements.txt
+```
+
 
 **Truthfulness on Imitative Falsehoods**
 
+```bash
 cd truthqa_evaluate
 
 conda create -n truthqa_eval python=3.9
@@ -27,16 +31,21 @@ pip install -r requirements.txt
 pip install -e transformers-4.47.1 (For AWQ)
 
 pip install -e transformers-4.51.3
+```
 
 ## Quickstart
 
 **Truthfulness on Logical Reasoning and Common Sense**
 
+```bash
 python3 truth_eval_main.py
+```
 
 **Truthfulness on Imitative Falsehoods**
 
+```bash
 cd truthqa_evaluate
+```
 
 bash main.sh
 
