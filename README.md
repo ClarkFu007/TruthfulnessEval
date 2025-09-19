@@ -30,7 +30,15 @@ pip install -e transformers-4.51.3
 
 ## Quickstart
 
+**Truthfulness on Logical Reasoning and Common Sense**
+
 python3 truth_eval_main.py
+
+**Truthfulness on Imitative Falsehoods**
+
+cd truthqa_evaluate
+
+bash main.sh
 
 ##  Citation
 
